@@ -9,7 +9,7 @@ function App() {
     </webPageHeader>
     <webPageMain>
       <div className = "mainLeftHalf">
-      <p>Hello17</p>
+      <p>Hello18</p>
       </div>
       <div className = "mainRightHalf">
       <p>Hello2</p>
